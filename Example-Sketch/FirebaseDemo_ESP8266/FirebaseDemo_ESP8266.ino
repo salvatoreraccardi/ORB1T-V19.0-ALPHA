@@ -26,8 +26,12 @@
 #define WIFI_SSID "SSID"
 #define WIFI_PASSWORD "PASSWORD"
 
+#define wifistatus D7
+
 void setup() {
   Serial.begin(9600);
+  pinMode(wifistatus, OUTPUT);
+  digitalWrite(wifistatus, LOW);
 
   // connect to wifi.
   WiFi.begin(WIFI_SSID, WIFI_PASSWORD);
@@ -39,6 +43,7 @@ void setup() {
   Serial.println();
   Serial.print("connected: ");
   Serial.println(WiFi.localIP());
+  digitalWrite(wifistatus, HIGH);
   
   Firebase.begin(FIREBASE_HOST, FIREBASE_AUTH);
 }
