@@ -48,9 +48,10 @@ Remember, this is a prototype/concept. My next goal is to increase the functiona
 
 > **NOTE:** This is a prototype so some of these components have been added to test some additional features.  
 
-### The future of this project?
+### The future of this ORB1T?
 
 In the next three months, I will make a new version of ORB1T. For example, I would use a new microcontroller, new sensors and more. 
+I will fix some problems of ORB1T V19.0. Does the future belong to ORB1T V20? We'll see!
 
 ## Demonstration videos
 
