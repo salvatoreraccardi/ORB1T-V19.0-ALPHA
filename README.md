@@ -23,10 +23,9 @@ So in December 2019 I Designed ORB1T V19 in only 2 weeks. Orbit v19 is the perfe
 
 **Database ready to use**
 
-- Firebase
-    Store and sync app data in milliseconds
-- Redis 
-- MySql
+- **Firebase** *is perfect for sync app data in milliseconds*
+- **Redis** *is an in-memory data structure project implementing a distributed*
+- **MySql** *is an open-source relational database management system*
 
 > **NOTE:** You can use other databases like MongoDB.
 
