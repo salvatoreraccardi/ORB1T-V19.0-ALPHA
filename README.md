@@ -6,7 +6,7 @@ ORB1T V19.0 is designed for those who develop IoT projects. This development boa
 
 ## Timelaps
 
-[<img src="https://img.youtube.com/vi/vIh-UPjNHHQ/maxresdefault.jpg" width="50%">](https://youtu.be/vIh-UPjNHHQ)
+[<img src="https://img.youtube.com/vi/vIh-UPjNHHQ/maxresdefault.jpg" width="80%">](https://youtu.be/vIh-UPjNHHQ)
 
 ## Features
 1) ESP12E (Microcontroller with WiFi Module)
