@@ -20,15 +20,21 @@ So in December 2019 I Designed ORB1T V19 in only 2 weeks. Orbit v19 is the perfe
 
 > **For example:** You can remove an sensor from the power/data bus.
 
-## Timelaps
+
+**Features**
+
+- ESP12E (Microcontroller with WiFi Module)
+- USB-B and USB-C
+- CP2104 (USB-to-UART Bridge Controller)
+- BME280 ( Atmospheric pressure, altitude, humidity and temperature)
+- APDS9960 (Proximity, Light, RGB and Gesture Sensor)
+- MPU-6050 (Triple Axis Accelerometer and Gyro)
+- WS2812B (RGB PIXEL LED)
+
+> **NOTE:** This is a prototype so some of these components have been added to test some additional features.  
+
+## Demonstration videos
 
 [<img src="https://img.youtube.com/vi/vIh-UPjNHHQ/maxresdefault.jpg" width="80%">](https://youtu.be/vIh-UPjNHHQ)
 
-## Features
-1) ESP12E (Microcontroller with WiFi Module)
-2) USB-B and USB-C
-3) CP2104 (USB-to-UART Bridge Controller)
-4) BME280 ( Atmospheric pressure, altitude, humidity and temperature)
-5) APDS9960 (Proximity, Light, RGB and Gesture Sensor)
-6) MPU-6050 (Triple Axis Accelerometer and Gyro)
-7) WS2812B (RGB PIXEL LED)
+
