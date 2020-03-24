@@ -17,3 +17,18 @@ Unarchive the package you've just downloaded.
 Go inside the Redis folder
 
 ```cd redis*```
+
+Now let's build Redis from sources on your Raspberry Pi with following commands.
+
+```sudo make```
+```make test```
+
+Edit the Redis configuration file to setup caching.
+
+```sudo nano /etc/redis/redis.conf```
+
+Use nano's CTRL+W function to search for the following entries. some are already set. But, there are still few values to set. For example,
+
+[*] **daemonize** yes to run Redis as a Deamon.
+[*] **stop-writes-on-bgsave-error no**, Redis stops on failure and requires a manual restart. Using this setting Redis will not stop on failure.
+[*] **maxmemory** 70M, RAM is limited on a RaspberryPi, so 70 Mb is enough for most of my needs. If you need more memory, adjust this setting later.
