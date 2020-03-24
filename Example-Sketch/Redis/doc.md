@@ -46,8 +46,12 @@ maxmemory-policy allkeys-lru
 
 **Start redis server**
 
-```sudo redis-server```
+```redis-server```
 
 **Open redis CLI**
 
-```sudo redis-cli```
+```redis-cli```
+
+**Shutdown redis-server**
+
+```127.0.0.1:6379> SHUTDOWN NOSAVE```
