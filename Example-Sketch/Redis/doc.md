@@ -48,4 +48,5 @@ maxmemory-policy allkeys-lru
 ```sudo redis-server```
 
 **Open redis CLI**
+
 ```sudo redis-cli```
