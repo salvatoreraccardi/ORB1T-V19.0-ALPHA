@@ -39,4 +39,5 @@ daemonize yes
 stop-writes-on-bgsave-error no
 rdbcompression yes
 maxmemory 50M
-maxmemory-policy allkeys-lru```
+maxmemory-policy allkeys-lru
+```
