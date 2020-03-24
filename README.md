@@ -10,8 +10,9 @@ I decided to make ORB1T V19.0 to improve the development of my IoT projects. Usu
 
 ### Why I made this?
 
-I made ORB1T v19 for my IoT projects, because the Arduino uno and other similar platforms are not ready for IoT applications.
-So in December 2019 I Designed ORB1T V19 in only 2 weeks. Orbit v19 is the perfect solution for your iot project, because you have microcontroller/wifi connection and sensors in a single board.
+I made ORB1T v19 for my IoT projects because the Arduino UNO and other similar platforms are not ready for IoT applications. 
+So in December 2019, I Designed ORB1T V19 in only 2 weeks. Orbit v19 is the perfect solution for your IoT projects because you 
+have microcontroller/wifi connection and sensors in a single board.
 
 ### IoT with ORB1T V19.0
 
@@ -59,6 +60,11 @@ Remember, this is a prototype/concept. My next goal is to increase the functiona
 > **NOTE:** This is a prototype so some of these components have been added to test some additional features.  
 
 <br />
+
+### Issues
+
+- VLOGIC status for MPU6050
+- Logic Level Converter for WS2812B (3.3V to 5V)
 
 ### The future of this ORB1T?
 
