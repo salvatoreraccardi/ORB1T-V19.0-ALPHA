@@ -43,6 +43,10 @@ So in December 2019 I Designed ORB1T V19 in only 2 weeks. Orbit v19 is the perfe
 
 > **NOTE:** This is a prototype so some of these components have been added to test some additional features.  
 
+### The future of this project?
+
+blablabla
+
 ## Demonstration videos
 
 [<img src="https://img.youtube.com/vi/vIh-UPjNHHQ/maxresdefault.jpg" width="80%">](https://youtu.be/vIh-UPjNHHQ)
