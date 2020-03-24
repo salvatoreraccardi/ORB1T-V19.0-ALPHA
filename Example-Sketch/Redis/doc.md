@@ -41,3 +41,7 @@ rdbcompression yes
 maxmemory 50M
 maxmemory-policy allkeys-lru
 ```
+Start redis server
+```sudo redis-server```
+Open redis CLI
+```sudo redis-cli```
