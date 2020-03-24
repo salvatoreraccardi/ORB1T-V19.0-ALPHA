@@ -16,8 +16,12 @@ have microcontroller/wifi connection and sensors in a single board.
 
 ### IoT with ORB1T V19.0
 
+*Many IoT (All-in-one) development boards do not allow isolating sensors from the circuit.*
+
 With this board, you have easy access to sensors, you can isolate them, you can add another microcontroller.
 Remember, this is a prototype/concept. My next goal is to increase the functionality of ORB1T.
+
+ORB1T V19.0 allows you to control individual sensors also using external microcontrollers. I2C bus and power bus can be used freely by the user.
 
 ### With ORB1T V19, you don't need
 
