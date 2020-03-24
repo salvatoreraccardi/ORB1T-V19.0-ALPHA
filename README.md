@@ -3,6 +3,11 @@
 
 OBJEX V19.0 is designed for those who develop IoT projects. All the sensors and basic parts, no soldering needed.
 
+**What is OBJEX?**
+
+OBJEX is an "startup" maybe (I don't know, it's early to say). 
+Currently, it's a set of experimental IoT projects. Every project has a different name, for example, ORB1T.
+
 ### What is it?
 
 ORB1T V19.0 is designed for those who develop IoT projects. This development board includes all sensors and base parts, no soldering needed. 
