@@ -24,6 +24,8 @@ Remember, this is a prototype/concept. My next goal is to increase the functiona
 - Breadboard or similar
 - Wires
 
+<br />
+
 > **For example:** You can isolate an sensor from the power/data bus.
 
 <br />
@@ -33,6 +35,8 @@ Remember, this is a prototype/concept. My next goal is to increase the functiona
 - **Firebase** *is perfect for sync app data in milliseconds*
 - **Redis** *is an in-memory data structure project implementing a distributed*
 - **MySql** *is an open-source relational database management system*
+
+<br />
 
 > **NOTE:** You can use other databases like MongoDB.
 
@@ -49,6 +53,8 @@ Remember, this is a prototype/concept. My next goal is to increase the functiona
 - **WS2812B** (RGB PIXEL LED)
 - **AMS1117-3.3** (Voltage regulator)
 - **SMART power/data BUS** (Management of each component - power/data)
+
+<br />
 
 > **NOTE:** This is a prototype so some of these components have been added to test some additional features.  
 
