@@ -1,4 +1,6 @@
 # ORB1T-V19.0-ALPHA
+**Elevator pitch**
+
 OBJEX V19.0 is designed for those who develop IoT projects. All the sensors and basic parts, no soldering needed.
 ## What is it?
 
