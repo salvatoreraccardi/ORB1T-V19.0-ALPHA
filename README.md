@@ -23,13 +23,15 @@ So in December 2019 I Designed ORB1T V19 in only 2 weeks. Orbit v19 is the perfe
 
 **Features**
 
-- ESP12E (Microcontroller with WiFi Module)
-- USB-B and USB-C
-- CP2104 (USB-to-UART Bridge Controller)
-- BME280 ( Atmospheric pressure, altitude, humidity and temperature)
-- APDS9960 (Proximity, Light, RGB and Gesture Sensor)
-- MPU-6050 (Triple Axis Accelerometer and Gyro)
-- WS2812B (RGB PIXEL LED)
+- **ESP12E** (Microcontroller with WiFi Module)
+- **USB-C and microUSB-B**
+- **CP2104** (USB-to-UART Bridge Controller)
+- **BME280** (Atmospheric pressure, altitude, humidity and temperature)
+- **APDS9960** (Proximity, Light, RGB and Gesture Sensor)
+- **MPU-6050** (Triple Axis Accelerometer and Gyro)
+- **WS2812B** (RGB PIXEL LED)
+- **AMS1117-3.3** (Voltage regulator)
+- **SMART power/data BUS** (Management of each component - power/data)
 
 > **NOTE:** This is a prototype so some of these components have been added to test some additional features.  
 
