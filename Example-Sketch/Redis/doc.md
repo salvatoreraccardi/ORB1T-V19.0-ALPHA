@@ -37,11 +37,15 @@ Use nano's CTRL+W function to search for the following entries. some are already
 port 6379
 daemonize yes
 stop-writes-on-bgsave-error no
+protected-mode no // ONLY FOR PROTOTYPE
 rdbcompression yes
 maxmemory 50M
 maxmemory-policy allkeys-lru
 ```
-Start redis server
+
+**Start redis server**
+
 ```sudo redis-server```
-Open redis CLI
+
+**Open redis CLI**
 ```sudo redis-cli```
