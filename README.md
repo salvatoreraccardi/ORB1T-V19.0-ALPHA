@@ -3,17 +3,17 @@
 
 OBJEX V19.0 is designed for those who develop IoT projects. All the sensors and basic parts, no soldering needed.
 
-**What is it?**
+### What is it?
 
 ORB1T V19.0 is designed for those who develop IoT projects. This development board includes all sensors and base parts, no soldering needed. 
 I decided to make ORB1T V19.0 to improve the development of my IoT projects. Usually, I have to use multiple modules creating a tangle of cables.
 
-**Why I made this?**
+### Why I made this?
 
 I made ORB1T v19 for my IoT projects, because the Arduino uno and other similar platforms are not ready for IoT applications.
 So in December 2019 I Designed ORB1T V19 in only 2 weeks. Orbit v19 is the perfect solution for your iot project, because you have microcontroller/wifi connection and sensors in a single board.
 
-**With ORB1T V19, you don't need:**
+### With ORB1T V19, you don't need
 
 - External shields (Bme280, sensors ecc..)
 - Breadboard or similar
@@ -29,7 +29,7 @@ So in December 2019 I Designed ORB1T V19 in only 2 weeks. Orbit v19 is the perfe
 
 > **NOTE:** You can use other databases like MongoDB.
 
-**Features**
+### Features
 
 - **ESP12E** (Microcontroller with WiFi Module)
 - **USB-C and microUSB-B**
