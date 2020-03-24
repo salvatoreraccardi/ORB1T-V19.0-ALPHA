@@ -46,7 +46,7 @@ Remember, this is a prototype/concept. My next goal is to increase the functiona
 - **AMS1117-3.3** (Voltage regulator)
 - **SMART power/data BUS** (Management of each component - power/data)
 
-
+<br />
 > **NOTE:** This is a prototype so some of these components have been added to test some additional features.  
 
 ### The future of this ORB1T?
