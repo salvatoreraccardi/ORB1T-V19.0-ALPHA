@@ -19,7 +19,16 @@ So in December 2019 I Designed ORB1T V19 in only 2 weeks. Orbit v19 is the perfe
 - Breadboard or similar
 - Wires
 
-> **For example:** You can remove an sensor from the power/data bus.
+> **For example:** You can isolate an sensor from the power/data bus.
+
+**Database ready to use**
+
+- Firebase
+    Store and sync app data in milliseconds
+- Redis 
+- MySql
+
+> **NOTE:** You can use other databases like MongoDB.
 
 **Features**
 
