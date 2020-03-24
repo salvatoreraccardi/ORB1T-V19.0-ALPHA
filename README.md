@@ -21,7 +21,7 @@ So in December 2019 I Designed ORB1T V19 in only 2 weeks. Orbit v19 is the perfe
 
 > **For example:** You can isolate an sensor from the power/data bus.
 
-**Database ready to use**
+#### Database ready to use
 
 - **Firebase** *is perfect for sync app data in milliseconds*
 - **Redis** *is an in-memory data structure project implementing a distributed*
