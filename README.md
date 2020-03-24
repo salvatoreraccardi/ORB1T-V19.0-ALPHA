@@ -63,8 +63,13 @@ Remember, this is a prototype/concept. My next goal is to increase the functiona
 
 ### Issues
 
-- VLOGIC status for MPU6050
-- Logic Level Converter for WS2812B (3.3V to 5V)
+- **(I)** VLOGIC status for MPU6050
+- **(II)** Logic Level Converter for WS2812B (3.3V to 5V)
+
+<br />
+
+> **(I):** I added an external bridge 
+> **(II):** I used an external shield with BSS138
 
 <br />
 
