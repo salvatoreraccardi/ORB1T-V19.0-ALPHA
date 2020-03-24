@@ -69,6 +69,7 @@ Remember, this is a prototype/concept. My next goal is to increase the functiona
 <br />
 
 > **(I):** I added an external bridge 
+
 > **(II):** I used an external shield with BSS138
 
 <br />
