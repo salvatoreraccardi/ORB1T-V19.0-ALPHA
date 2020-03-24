@@ -24,6 +24,8 @@ Remember, this is a prototype/concept. My next goal is to increase the functiona
 - Breadboard or similar
 - Wires
 
+<br />
+
 > **For example:** You can isolate an sensor from the power/data bus.
 
 ### Database ready to use
@@ -31,6 +33,8 @@ Remember, this is a prototype/concept. My next goal is to increase the functiona
 - **Firebase** *is perfect for sync app data in milliseconds*
 - **Redis** *is an in-memory data structure project implementing a distributed*
 - **MySql** *is an open-source relational database management system*
+
+<br />
 
 > **NOTE:** You can use other databases like MongoDB.
 
