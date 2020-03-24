@@ -21,6 +21,7 @@ Go inside the Redis folder
 Now let's build Redis from sources on your Raspberry Pi with following commands.
 
 ```sudo make```
+
 ```make test```
 
 Edit the Redis configuration file to setup caching.
