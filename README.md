@@ -18,7 +18,7 @@ So in December 2019 I Designed ORB1T V19 in only 2 weeks. Orbit v19 is the perfe
 - You don't need external shields (Bme280, sensors ecc..)
 - You can control any element with modular bus (power and data)
 
-*For example: you can remove an sensor from the power/data bus*
+> **For example:** You can remove an sensor from the power/data bus.
 
 ## Timelaps
 
