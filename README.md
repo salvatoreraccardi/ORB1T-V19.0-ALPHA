@@ -1,13 +1,13 @@
-# ORB1T V19.0 ALPHA
-**Elevator pitch**
-
-OBJEX V19.0 is designed for those who develop IoT projects. All the sensors and basic parts, no soldering needed.
-
-**What is OBJEX?**
+## What is OBJEX?
 
 OBJEX is an "startup" maybe (I don't know, it's early to say). 
 Currently, it's a set of experimental IoT projects. Every project has a different name, for example, ORB1T.
 The goal of OBJEX is to develop IoT systems/devices.
+
+## ORB1T V19.0 ALPHA
+**Elevator pitch**
+
+OBJEX V19.0 is designed for those who develop IoT projects. All the sensors and basic parts, no soldering needed.
 
 ### What is it?
 
