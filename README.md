@@ -13,6 +13,11 @@ I decided to make ORB1T V19.0 to improve the development of my IoT projects. Usu
 I made ORB1T v19 for my IoT projects, because the Arduino uno and other similar platforms are not ready for IoT applications.
 So in December 2019 I Designed ORB1T V19 in only 2 weeks. Orbit v19 is the perfect solution for your iot project, because you have microcontroller/wifi connection and sensors in a single board.
 
+### IoT with ORB1T V19.0
+
+With this board, you have easy access to sensors, you can isolate them, you can add another microcontroller.
+Remember, this is a prototype/concept. My next goal is to increase the functionality of ORB1T.
+
 ### With ORB1T V19, you don't need
 
 - External shields (Bme280, sensors ecc..)
@@ -45,7 +50,7 @@ So in December 2019 I Designed ORB1T V19 in only 2 weeks. Orbit v19 is the perfe
 
 ### The future of this project?
 
-blablabla
+In the next three months, I will make a new version of ORB1T. For example, I would use a new microcontroller, new sensors and more. 
 
 ## Demonstration videos
 
