@@ -23,7 +23,7 @@ So in December 2019 I Designed ORB1T V19 in only 2 weeks. Orbit v19 is the perfe
 
 |                |ARDUINO                        |HTML                         |
 |----------------|-------------------------------|-----------------------------|
-|IoT ready       |[X]                            |[-]                          |
+|IoT ready       |[X]                            |                             |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
