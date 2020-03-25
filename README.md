@@ -1,6 +1,6 @@
 ## What is OBJEX?
 
-OBJEX is an "startup" maybe (I don't know, it's early to say). 
+OBJEX is a "startup" maybe (I don't know, it's early to say). 
 Currently, it's a set of experimental IoT projects. Every project has a different name, for example, ORB1T.
 The goal of OBJEX is to develop IoT systems/devices.
 
