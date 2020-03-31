@@ -10,10 +10,10 @@
 #include <Adafruit_BME280.h>
 
 // Set these to run example.
-#define FIREBASE_HOST "objex-6da35.firebaseio.com"
-#define FIREBASE_AUTH "Tv5qXnNZmq9fPoiMLnMdJSiyuziGIZa2aVN0PU1F"
-#define WIFI_SSID "Raccardi"
-#define WIFI_PASSWORD "raccardi2016"
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 #define BME_SCK 13
 #define BME_MISO 12
